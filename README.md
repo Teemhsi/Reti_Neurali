@@ -1,8 +1,7 @@
 # Reti_Neurali
-# Documentazione della Rete Neurale Convoluzionale per la Regressione
 
 La rete neurale convoluzionale (CNN) in questione è progettata per eseguire un'operazione di regressione su un set di dati.
-## Struttura del Modello
+## Struttura
 
 Il modello è composto da diversi strati:
 
@@ -24,6 +23,6 @@ Il modello è composto da diversi strati:
 
 9. **Dense**: Questo è lo strato di output del modello. Ha un solo nodo, poiché il modello esegue un'operazione di regressione. Non c'è funzione di attivazione specificata per questo strato.
 
-## Utilizzo del Modello
+## Utilizzo
 
 Dopo la compilazione, il modello è pronto per essere addestrato sui dati; Dopo l'addestramento, può essere utilizzato per fare previsioni su nuovi dati.

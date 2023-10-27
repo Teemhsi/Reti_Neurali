@@ -1,8 +1,7 @@
 # Reti_Neurali
 # Documentazione della Rete Neurale Convoluzionale per la Regressione
 
-La rete neurale convoluzionale (CNN) in questione è progettata per eseguire un'operazione di regressione su un set di dati di metriche di una macchina industriale.
-
+La rete neurale convoluzionale (CNN) in questione è progettata per eseguire un'operazione di regressione su un set di dati.
 ## Struttura del Modello
 
 Il modello è composto da diversi strati:
@@ -31,4 +30,4 @@ Il modello viene compilato con la funzione di perdita 'mae' (Mean Absolute Error
 
 ## Utilizzo del Modello
 
-Dopo la compilazione, il modello è pronto per essere addestrato sui dati di metriche della macchina industriale. Dopo l'addestramento, può essere utilizzato per fare previsioni su nuovi dati.
+Dopo la compilazione, il modello è pronto per essere addestrato sui dati; Dopo l'addestramento, può essere utilizzato per fare previsioni su nuovi dati.

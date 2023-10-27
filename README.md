@@ -24,10 +24,6 @@ Il modello è composto da diversi strati:
 
 9. **Dense**: Questo è lo strato di output del modello. Ha un solo nodo, poiché il modello esegue un'operazione di regressione. Non c'è funzione di attivazione specificata per questo strato.
 
-## Compilazione del Modello
-
-Il modello viene compilato con la funzione di perdita 'mae' (Mean Absolute Error) e l'ottimizzatore 'adam'. 
-
 ## Utilizzo del Modello
 
 Dopo la compilazione, il modello è pronto per essere addestrato sui dati; Dopo l'addestramento, può essere utilizzato per fare previsioni su nuovi dati.
